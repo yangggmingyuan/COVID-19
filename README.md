@@ -1,4 +1,7 @@
-📊 COVID-19 Data Exploration
+# 📊 COVID-19 Data Exploration
+
+## Overview📊:
+
 This project focuses on exploring and analyzing global COVID-19 data using advanced SQL techniques in Microsoft SQL Server. It covers key aspects such as infection rates, death rates, vaccination progress, and regional comparisons through calculated insights and rankings.
 
 🛠 Skills & Techniques Used:
